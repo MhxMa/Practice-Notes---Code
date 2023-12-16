@@ -1,0 +1,4 @@
+- 递推(Fibonacci), 高精度
+
+Note: F1数组写法, F2高精度写法
+Experience and summarize: 注意看数据范围，该用高精度该用高精度，可以用二维数组代替高精度计算
